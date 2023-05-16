@@ -1,0 +1,48 @@
+
+- Pokretanje programa: http://localhost:8080/NaocareShop/
+
+- Sema baze: mdb
+ * username: root
+ * password: root
+
+
+- Korisnici:
+
+ 1) mina     emilija69
+ 2) jelena   jelena456
+ 3) milica   milica123
+ 4) ana      najboljaOdavno 
+ 5) petar    god2023feb
+ 6) marko    dimnabomba3
+
+******************
+ADMINISTRATOR:
+******************
+
+1) Unos podataka
+2) Azuriranje podataka
+3) Azuriranje cene naocara
+4) Azuriranje naziva naocara
+5) Brisanje komentara
+6) Dodavanje slike
+7) Naocare isporucene u zadatom periodu - izvestaj
+
+******************
+KORISNIK:
+******************
+
+1) Pretraga po brendu
+2) Pretraga po kategoriji
+3) Porucivanje naocara
+4) Naocare u zadatom rasponu cena - izvestaj
+
+*******************************
+ZAJEDNICKE FUNKCIONALNOSTI:
+*******************************
+
+1) Pregled ponuda(naocara)
+2) Pregled dodataka za naocare
+3) Pregled ocena i komentara
+
+
+- How To Create Responsive Login Form Using HTML & CSS & Bootstrap (2022): https://www.youtube.com/watch?v=Bwk-Q_Ua-jM
