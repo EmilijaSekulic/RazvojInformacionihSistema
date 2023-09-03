@@ -8,12 +8,10 @@
 
 - Korisnici:
 
- 1) mina     emilija69
- 2) jelena   jelena456
- 3) milica   milica123
- 4) ana      najboljaOdavno 
- 5) petar    god2023feb
- 6) marko    dimnabomba3
+ 1) jelena   jelena456
+ 2) milica   milica123
+ 3) ana      najboljaOdavno 
+ 4) petar    god2023feb
 
 ******************
 ADMINISTRATOR:
